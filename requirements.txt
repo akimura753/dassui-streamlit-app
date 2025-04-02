@@ -3,5 +3,8 @@ opencv-python-headless
 pandas
 numpy
 scikit-learn
-joblib
 Pillow
+joblib==1.2.0
+scikit-learn==1.0.2
+numpy==1.22.0
+streamlit==1.10.0
